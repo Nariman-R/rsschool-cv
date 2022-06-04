@@ -19,6 +19,7 @@ I work as a network analyst in IT company. My scope is DPI solutions. Sometimes 
 ***
 
 ## Skills and Proficiency:
+
 * HTML, CSS
 * JavaScript basics
 * Python basics
@@ -26,24 +27,30 @@ I work as a network analyst in IT company. My scope is DPI solutions. Sometimes 
 * Git
 
 ***
+
 ## Code example:
+
  ### "Can we divide it?" from Codewars
- **Task description:** *Create the functionisDivideBy (or is_divide_by) to check if an integer number is divisible by both integers a and b.*
+
+ **Task description:** Create the functionisDivideBy (or is_divide_by) to check if an integer number is divisible by both integers a and b.
+
 ```JavaScript
 function isDivideBy(number, a, b) {
   return (number % a == 0 && number % b == 0)
 }
 ```
+
 ***
+
 ## Work experience:
 *Nothing yet…*
 
 ***
+
 ## Education
 
 * **Toraighyrov University (Kazakhstan-Pavlodar)**
     * Computer systems for information processing and control
-
 
 ***
 
