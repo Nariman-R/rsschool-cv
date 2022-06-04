@@ -30,7 +30,7 @@ I work as a network analyst in IT company. My scope is DPI solutions. Sometimes 
 
 ## Code example:
 
- ### "Can we divide it?" from Codewars
+### "Can we divide it?" from Codewars
 
  **Task description:** Create the functionisDivideBy (or is_divide_by) to check if an integer number is divisible by both integers a and b.
 
