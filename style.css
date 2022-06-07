@@ -3,3 +3,7 @@
     src: url("assets/fonts/Lato-Regular.ttf");
    }
 
+* {
+    box-sizing: border-box;
+  }
+
